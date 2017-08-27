@@ -1,10 +1,10 @@
 export default function() {
     return [
-        {title: 'My Book 1', pages: 30},
-        {title: 'Onother Book', pages: 75},
-        {title: 'Book 3', pages: 88},
-        {title: 'Book4', pages: 20},
-        {title: 'Book Five', pages: 111},
-        {title: 'Book Six', pages: 41}
+        {title: 'Do Androids Dream of Electric Sheep?', pages: 30},
+        {title: 'I Was Told Thered Be Cake', pages: 75},
+        {title: 'To Kill a Mockingbird', pages: 88},
+        {title: 'The Man Without Qualities', pages: 20},
+        {title: 'Where the Wild Things Are', pages: 111},
+        {title: 'Me Talk Pretty One Day', pages: 41}
     ];
 }
